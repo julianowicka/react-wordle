@@ -1,0 +1,24 @@
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+  margin: 5px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.backgroundGray {
+  background: #d4d4d4;
+}
+
+.backgroundGreen {
+  background: #b3faa8;
+}
+
+.backgroundYellow {
+  background: #ffe788;
+}
